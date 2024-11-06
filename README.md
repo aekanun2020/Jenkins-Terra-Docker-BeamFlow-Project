@@ -7,3 +7,5 @@ Nov 2, 2024, เปลี่ยน cloud project
 Nov 4, 2024, test run
 
 Nov 5, 2024, demo run#2
+
+Nov 6, 2024, demo 
